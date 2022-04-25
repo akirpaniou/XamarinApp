@@ -1,0 +1,15 @@
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ElenStore.deps.json
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ElenStore.dll
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ref\ElenStore.dll
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ElenStore.pdb
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.AssemblyInfo.cs
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.dll
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ref\ElenStore.dll
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.pdb
