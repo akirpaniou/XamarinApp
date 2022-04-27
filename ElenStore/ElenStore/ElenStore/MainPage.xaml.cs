@@ -17,6 +17,7 @@ namespace ElenStore
 
         protected override void OnAppearing()
         {
+            /*
             StackLayout layout = new StackLayout();
 
             Label label1 = new Label();
@@ -36,24 +37,17 @@ namespace ElenStore
             label2.FontAttributes = FontAttributes.Bold;
             label2.HorizontalOptions = LayoutOptions.Center;
 
+            //Image image1 = new Image();
+            //image1.Source = ImageSource.FromResource("ElenStore.langMainPge.jpg");
+
+            
 
             layout.Children.Add(label1);
             layout.Children.Add(label2);
 
-            //Image image1 = new Image();
-            //image1.Source = ImageSource.FromResource("ElenStore.langMainPge.jpg");
-
             Content = layout;
-
-            Frame imageFrame = new Frame
-            {
-                Content = new StackLayout
-                {
-
-                }
-            };
+            */
 
         }
-
     }
 }

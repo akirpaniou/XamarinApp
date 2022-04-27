@@ -574,3 +574,4 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\De
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\res\drawable\langmainpge.jpg

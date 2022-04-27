@@ -9,7 +9,7 @@ namespace ElenStore
     {
         public StartPage()
         {
-            Label header = new Label() { Text = "Привет из Xamarin Forms" };
+            Label header = new Label() { Text = "Hi from Xamarin Forms" };
             this.Content = header;
         }
     }
