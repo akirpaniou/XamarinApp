@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ElenStore.MainPage">
+             x:Class="ElenStore.MainPage"
+             Title="CodeLearn">
 
     <StackLayout Orientation="Vertical">
         <Label Text="CodeLearn" TextColor="Red" FontSize="30" HorizontalOptions="Center" FontAttributes="Bold"></Label>
         <Label Text="Learn a programming language" TextColor="Green" FontSize="20" FontAttributes="Bold"></Label>
         <Image Source="langMainPge.jpg" HorizontalOptions="Center"/>
+        <StackLayout>
+            <Button Text="Choose Course" Clicked="Button1_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
+        </StackLayout>
     </StackLayout>
    
     

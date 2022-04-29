@@ -15,8 +15,14 @@ namespace ElenStore
             InitializeComponent();
         }
 
+        private async void Button1_Click(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CoursePage());
+        }
+
         protected override void OnAppearing()
         {
+
             /*
             StackLayout layout = new StackLayout();
 

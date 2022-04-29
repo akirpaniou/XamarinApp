@@ -13,3 +13,4 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\nets
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ref\ElenStore.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.pdb
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\CoursePage.xaml.g.cs
