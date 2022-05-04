@@ -565,7 +565,6 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\De
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\res\drawable\langmainpge.jpg
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\lp\46\jl\files.cache
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\lp\52\jl\files.cache
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\lp\56\jl\files.cache
@@ -583,3 +582,4 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\De
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\android\assets\System.Buffers.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\android\assets\System.Memory.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\res\drawable\travelmainpg.jpg

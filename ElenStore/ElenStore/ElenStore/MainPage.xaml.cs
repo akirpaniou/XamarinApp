@@ -17,7 +17,7 @@ namespace ElenStore
 
         private async void Button1_Click(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new CoursePage());
+            await Navigation.PushAsync(new NotesPage());
         }
 
         protected override void OnAppearing()

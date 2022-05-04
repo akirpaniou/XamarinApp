@@ -9,32 +9,38 @@ namespace ElenStore
 {
     public partial class App : Application
     {
-        public const string DATABASE_NAME = "DBCourses.db";
-        public static CourseDB database;
-        public static CourseDB Database
+        public const string DATABASE_NAME = "notes2.db";
+        public static NoteAsyncRepository database;
+        public static NoteAsyncRepository Database
         {
             get
             {
-                if(database == null)
+                if (database == null)
                 {
-                    string dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DATABASE_NAME);
-                    if (!File.Exists(dbPath))
-                    {
-                        var assembly = IntrospectionExtensions.GetTypeInfo(typeof(App)).Assembly;
-                        using (Stream stream = assembly.GetManifestResourceStream($"ElenStore.{DATABASE_NAME}"))
-                        {
-                            using (FileStream fs = new FileStream(dbPath, FileMode.OpenOrCreate))
-                            {
-                                stream.CopyTo(fs);
-                                fs.Flush();
-                            }
-                        }
-                    }
-                    database = new CourseDB(dbPath);
+                    database = new NoteAsyncRepository(
+                        Path.Combine(
+                            Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DATABASE_NAME));
                 }
                 return database;
             }
         }
+        /*
+        public const string DATABASE_NAME = "notes.db";
+        public static NoteRepository database;
+        public static NoteRepository Database
+        {
+            get
+            {
+                if (database == null)
+                {
+                    database = new NoteRepository(
+                        Path.Combine(
+                            Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), DATABASE_NAME));
+                }
+                return database;
+            }
+        }
+        */
         public App()
         {
             InitializeComponent();
