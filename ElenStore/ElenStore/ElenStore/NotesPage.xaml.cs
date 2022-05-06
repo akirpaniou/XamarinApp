@@ -26,7 +26,7 @@ namespace ElenStore
         */
         protected override async void OnAppearing()
         {
-            await App.Database.CreateTabel();
+            await App.Database.CreateTable();
             notesList.ItemsSource = await App.Database.GetItemsAsync();
             base.OnAppearing();
         }

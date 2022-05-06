@@ -3,39 +3,46 @@ using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ElenStore.Data
 {
     public class NoteAsyncRepository
     {
-        SQLiteConnection database;
+        SQLiteAsyncConnection database;
+
         public NoteAsyncRepository(string databasePath)
         {
-            database = new SQLiteConnection(databasePath);
-            database.CreateTable<Note>();
+            database = new SQLiteAsyncConnection(databasePath);
         }
-        public IEnumerable<Note> GetItems()
+
+        public async Task CreateTable()
         {
-            return database.Table<Note>().ToList();
+            await database.CreateTableAsync<Note>();
         }
-        public Note GetItem(int id)
+        public async Task<List<Note>> GetItemsAsync()
         {
-            return database.Get<Note>(id);
+            return await database.Table<Note>().ToListAsync();
+
         }
-        public int DeleteItem(int id)
+        public async Task<Note> GetItemAsync(int id)
         {
-            return database.Delete<Note>(id);
+            return await database.GetAsync<Note>(id);
         }
-        public int SaveItem(Note item)
+        public async Task<int> DeleteItemAsync(Note item)
+        {
+            return await database.DeleteAsync(item);
+        }
+        public async Task<int> SaveItemAsync(Note item)
         {
             if (item.Id != 0)
             {
-                database.Update(item);
+                await database.UpdateAsync(item);
                 return item.Id;
             }
             else
             {
-                return database.Insert(item);
+                return await database.InsertAsync(item);
             }
         }
     }

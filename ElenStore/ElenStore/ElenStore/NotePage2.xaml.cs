@@ -17,24 +17,24 @@ namespace ElenStore
         {
             InitializeComponent();
         }
-        private void SaveNote(object sender, EventArgs e)
+        private async void SaveNote(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
             if (!String.IsNullOrEmpty(note.NoteName))
             {
-                App.Database.SaveItem(note);
+                await App.Database.SaveItemAsync(note);
             }
-            this.Navigation.PopAsync();
+            await this.Navigation.PopAsync();
         }
-        private void DeleteNote(object sender, EventArgs e)
+        private async void DeleteNote(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-            App.Database.DeleteItem(note.Id);
-            this.Navigation.PopAsync();
+            await App.Database.DeleteItemAsync(note);
+            await this.Navigation.PopAsync();
         }
-        private void Cancel(object sender, EventArgs e)
+        private async void Cancel(object sender, EventArgs e)
         {
-            this.Navigation.PopAsync();
+            await this .Navigation.PopAsync();
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ElenStore.NotesPage">
+             x:Class="ElenStore.NotesPage" Title="Notes">
     <ContentPage.Content>
         <StackLayout>
             <ListView x:Name="notesList" ItemsSource="{Binding}" ItemSelected="OnItemSelected">

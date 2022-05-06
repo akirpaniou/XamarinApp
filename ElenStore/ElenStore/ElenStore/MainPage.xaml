@@ -1,15 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:lottie="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
              x:Class="ElenStore.MainPage"
-             Title="CodeLearn">
+             Title="StoryTravel">
 
     <StackLayout Orientation="Vertical">
-        <Label Text="CodeLearn" TextColor="Red" FontSize="30" HorizontalOptions="Center" FontAttributes="Bold"></Label>
-        <Label Text="Learn a programming language" TextColor="Green" FontSize="20" FontAttributes="Bold"></Label>
-        <Image Source="travelmainpg.jpg" HorizontalOptions="Center"/>
+        <Label Text="StoryTravel" TextColor="Red" FontSize="30" HorizontalOptions="Center" FontAttributes="Bold"></Label>
+        <Label Text="Your interesting trips" TextColor="Green" FontSize="20" FontAttributes="Bold"></Label>
+
+        <lottie:AnimationView x:Name="lottie" Animation="90724-travel-world-usa.json" AutoPlay="True" RepeatMode="Infinite" WidthRequest="300" HeightRequest="300" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+
         <StackLayout>
-            <Button Text="Choose Course" Clicked="Button1_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
+            <Button Text="Add Trip" Clicked="Button1_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
+        </StackLayout>
+        <StackLayout>
+            <Button Text="Map" Clicked="Button2_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
         </StackLayout>
     </StackLayout>
    

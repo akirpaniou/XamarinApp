@@ -19,6 +19,10 @@ namespace ElenStore
         {
             await Navigation.PushAsync(new NotesPage());
         }
+        private async void Button2_Click(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MapPage());
+        }
 
         protected override void OnAppearing()
         {

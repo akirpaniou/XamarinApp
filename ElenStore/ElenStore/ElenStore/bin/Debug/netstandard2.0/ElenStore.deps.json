@@ -9,13 +9,26 @@
     ".NETStandard,Version=v2.0/": {
       "ElenStore/1.0.0": {
         "dependencies": {
+          "Com.Airbnb.Xamarin.Forms.Lottie": "4.1.0",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Forms.Maps": "5.0.0.2012",
           "sqlite-net-pcl": "1.8.116"
         },
         "runtime": {
           "ElenStore.dll": {}
+        }
+      },
+      "Com.Airbnb.Xamarin.Forms.Lottie/4.1.0": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Lottie.Forms.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.1.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -134,6 +147,17 @@
             "fileVersion": "5.0.0.671"
           }
         }
+      },
+      "Xamarin.Forms.Maps/5.0.0.2012": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.671"
+          }
+        }
       }
     }
   },
@@ -142,6 +166,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Com.Airbnb.Xamarin.Forms.Lottie/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-me1BrWHvNPz3UQYXK0K5BZTbBIEYpbE5JbkUsO38tnvacLLMo8vBjmf11A6so2b3sCKtj4P3ixKu9EnZEjGs5g==",
+      "path": "com.airbnb.xamarin.forms.lottie/4.1.0",
+      "hashPath": "com.airbnb.xamarin.forms.lottie.4.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
@@ -233,6 +264,13 @@
       "sha512": "sha512-Rqc6xvWR/sf+Db5+qRCFmuYTWVp04QWRfwPto2/JHbShSy4Ed53Q2jpoFzsoloXkJA6saD236PlaWAhT6vI4gw==",
       "path": "xamarin.forms/5.0.0.2012",
       "hashPath": "xamarin.forms.5.0.0.2012.nupkg.sha512"
+    },
+    "Xamarin.Forms.Maps/5.0.0.2012": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zq1mv6sybHzQYWcOYOuLDV1LWQiioGN6kmleau7frhkVLf68FSXd/GIq4uA92TIOYMW9MxmZKOSBW8VVPis5pQ==",
+      "path": "xamarin.forms.maps/5.0.0.2012",
+      "hashPath": "xamarin.forms.maps.5.0.0.2012.nupkg.sha512"
     }
   }
 }
