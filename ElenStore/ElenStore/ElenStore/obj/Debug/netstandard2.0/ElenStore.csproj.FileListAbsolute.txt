@@ -2,7 +2,6 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\nets
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ElenStore.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ref\ElenStore.dll
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\bin\Debug\netstandard2.0\ElenStore.pdb
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.csproj.AssemblyReference.cache
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.GeneratedMSBuildEditorConfig.editorconfig
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -16,3 +15,4 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\nets
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\NotePage2.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.csproj.AssemblyReference.cache

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500726638414",
+    "project_id": "pushnotifications-5fdc5",
+    "storage_bucket": "pushnotifications-5fdc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500726638414:android:bfd163406babd768e9601f",
+        "android_client_info": {
+          "package_name": "com.companyname.elenstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500726638414-nrvj9h67tkt0jjc11hj7ta9agc5noela.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpE6WBWQR3h5ClefycN7klpmxUreYPJ7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500726638414-nrvj9h67tkt0jjc11hj7ta9agc5noela.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

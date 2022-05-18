@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U2dwmjf84SNvHvBh+iaKzjLc1wiV/KS2gYKOmOcf0U0ZAJrO9G9HAQcgZgHX7TARYuokZ+D9mmyUQ+dgPoytDg==",
+  "dgSpecHash": "SOSVymi/BvfxrnLNhYqgyQi/IPU54n226EU7H6WdQaIrDp5/XBJ75aIOV6xO8u7kFnOri7BwYHpyppg2Z6bP2A==",
   "success": true,
   "projectFilePath": "D:\\VisualStudioFiles\\ProjectXamarin\\ElenStore\\ElenStore\\ElenStore\\ElenStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kirpa\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.1.0\\com.airbnb.xamarin.forms.lottie.4.1.0.nupkg.sha512",
     "C:\\Users\\kirpa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kirpa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kirpa\\.nuget\\packages\\plugin.firebasepushnotification\\3.3.10\\plugin.firebasepushnotification.3.3.10.nupkg.sha512",
     "C:\\Users\\kirpa\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\kirpa\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\kirpa\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",

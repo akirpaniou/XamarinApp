@@ -38,6 +38,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Plugin.FirebasePushNotification/3.3.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.FirebasePushNotification.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.FirebasePushNotification.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.8.116": {
         "type": "package",
         "dependencies": {
@@ -417,6 +426,32 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Plugin.FirebasePushNotification/3.3.10": {
+      "sha512": "m2RokQa7jCSi0SVcz42AZk4btTGJneg0l56FfwgFswQ38Xkqj4OqCRr68y9lmh6y/tjdWKKkwYZK84YsVtRa0g==",
+      "type": "package",
+      "path": "plugin.firebasepushnotification/3.3.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/monoandroid10.0/Plugin.FirebasePushNotification.dll",
+        "lib/monoandroid10.0/Plugin.FirebasePushNotification.pdb",
+        "lib/monoandroid10.0/Plugin.FirebasePushNotification.xml",
+        "lib/monoandroid90/Plugin.FirebasePushNotification.dll",
+        "lib/monoandroid90/Plugin.FirebasePushNotification.pdb",
+        "lib/monoandroid90/Plugin.FirebasePushNotification.xml",
+        "lib/netstandard2.0/Plugin.FirebasePushNotification.dll",
+        "lib/netstandard2.0/Plugin.FirebasePushNotification.pdb",
+        "lib/netstandard2.0/Plugin.FirebasePushNotification.xml",
+        "lib/xamarinios10/Plugin.FirebasePushNotification.dll",
+        "lib/xamarinios10/Plugin.FirebasePushNotification.pdb",
+        "lib/xamarinios10/Plugin.FirebasePushNotification.xml",
+        "plugin.firebasepushnotification.3.3.10.nupkg.sha512",
+        "plugin.firebasepushnotification.nuspec",
+        "readme.txt"
       ]
     },
     "sqlite-net-pcl/1.8.116": {
@@ -932,6 +967,7 @@
     ".NETStandard,Version=v2.0": [
       "Com.Airbnb.Xamarin.Forms.Lottie >= 4.1.0",
       "NETStandard.Library >= 2.0.3",
+      "Plugin.FirebasePushNotification >= 3.3.10",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Forms >= 5.0.0.2012",
       "Xamarin.Forms.Maps >= 5.0.0.2012",
@@ -991,6 +1027,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "Plugin.FirebasePushNotification": {
+            "target": "Package",
+            "version": "[3.3.10, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
