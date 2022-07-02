@@ -743,7 +743,7 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\De
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_AndroidXJetifyManifest.stamp
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\_AndroidXJetifyManifest.jetify
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\stamp\_CopyIntermediateAssemblies.stamp
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\jl\7f6d3302-10ad-458b-b481-742d21c4d028.jar
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\23a0567f-8cc5-4b5b-a986-62aa33fa1cd0.cfg
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\2f3eb7e2-d4c5-43c8-bf53-7e1309e1e9c5.txt
-D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\dbe12793-2d19-4606-8e68-2d7db43c2212.txt
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\jl\7b9700b7-9446-40a0-be20-30e2189fbb81.jar
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\57579327-5cb8-4e7c-af2d-4d5ae418dc2b.txt
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\c9a303d6-8096-40d1-a286-e24bc0c98efa.cfg
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore.Android\obj\Debug\110\androidx\proguard\ebe640ff-eb18-417b-9100-417c32ef1b91.txt

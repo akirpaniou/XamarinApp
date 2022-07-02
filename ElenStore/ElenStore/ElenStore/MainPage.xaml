@@ -15,6 +15,9 @@
         </StackLayout>
         <StackLayout>
             <Button Text="Map" Clicked="Button2_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
+         <StackLayout>
+             <Button Text="Files" Clicked="Button3_Click" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Button>
+         </StackLayout>
         </StackLayout>
     </StackLayout>
    

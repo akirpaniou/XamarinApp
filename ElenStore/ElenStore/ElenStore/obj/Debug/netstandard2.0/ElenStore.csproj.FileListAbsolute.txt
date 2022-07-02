@@ -15,4 +15,5 @@ D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\nets
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\NotePage2.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\PageFiles.xaml.g.cs
 D:\VisualStudioFiles\ProjectXamarin\ElenStore\ElenStore\ElenStore\obj\Debug\netstandard2.0\ElenStore.csproj.AssemblyReference.cache

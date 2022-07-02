@@ -23,40 +23,15 @@ namespace ElenStore
         {
             await Navigation.PushAsync(new MapPage());
         }
+        private async void Button3_Click(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PageFiles());
+        }
 
         protected override void OnAppearing()
         {
 
-            /*
-            StackLayout layout = new StackLayout();
-
-            Label label1 = new Label();
-            Label label2 = new Label();
-
-            label1.Text = "CodeLearn";
-            label1.TextColor = Color.Red;
-            label1.FontSize = 30;
-            label1.FontAttributes = FontAttributes.Bold;
-            label1.HorizontalOptions = LayoutOptions.Center;
-            label1.BackgroundColor = Color.Blue;
             
-
-            label2.Text = "Learn a programming language";
-            label2.TextColor = Color.Green;
-            label2.FontSize = 20;
-            label2.FontAttributes = FontAttributes.Bold;
-            label2.HorizontalOptions = LayoutOptions.Center;
-
-            //Image image1 = new Image();
-            //image1.Source = ImageSource.FromResource("ElenStore.langMainPge.jpg");
-
-            
-
-            layout.Children.Add(label1);
-            layout.Children.Add(label2);
-
-            Content = layout;
-            */
 
         }
     }
